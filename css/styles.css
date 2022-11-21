@@ -1,0 +1,13 @@
+h1 {
+    color: blueviolet;
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    color: aqua;
+}
+
+body {
+    background-color: beige;
+}
